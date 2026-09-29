@@ -1,6 +1,6 @@
 # AI Code Evaluation Lab
 
-Structured evaluations of AI-generated software implementations, including correctness, test quality, edge cases, regressions, maintainability, and requirement alignment.
+A structured framework for evaluating AI-generated software implementations, including correctness, test quality, edge cases, regressions, maintainability, and requirement alignment.
 
 ## Purpose
 
@@ -33,6 +33,6 @@ A strong evaluation asks:
 
 ## Repository Scope
 
-This repository contains independently created, synthetic examples only.
+Additional synthetic evaluation examples will be added over time.
 
 No employer, client, Meta, or other proprietary code or data is included.
